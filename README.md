@@ -1,2 +1,2 @@
-# Nebenl-ufigkeitFSE
+# MultithreadingFSE
 Multithreading (Java) Repository for FSE
