@@ -61,7 +61,7 @@ class DataShareCache{
 
            //sleep(1500);
 
-           while (cache.size() == 0) {
+           while (cache.size() <= 0) {
                try {
                    wait();
                } catch (InterruptedException e) {
